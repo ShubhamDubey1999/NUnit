@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QhL0Ehij1Aln33HpWmAS8IuVQiYwyoP3gfO3p6izV1lSmMLaPdeJde7XJcgUHmwPSq9mZBz2LDr78QeMlyeAkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Teamarcs\\source\\repos\\NUnit\\NUnit\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teamarcs\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Teamarcs\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teamarcs\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
