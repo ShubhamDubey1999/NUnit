@@ -107,25 +107,3 @@ Why should I learn unit testing? Why spend extra time to write code to test? Is 
 These are pretty common questions and I will answer them all but most of the times manual testing is much more time consuming and it is not as through as unit test. Unit tests take time once to write and can be executed for free every time! 
 
 As application grows, the cost of manual testing grows exponentially. And manual testing will never give 100% confidence with all the edge cases.. Automated tests help you to catch the bugs while it is in development phase, because of which they would be easier to resolve.
-
-
-
-**Will it help me with job?**
-
-Many times, skills comes with that will that skill help me achieve professionally. Unit testing is a very valuable skill with the current development cycle. It is a must have skill in most organizations for senior developers.
-
-
-
-By end of this course you will have a solid foundation with unit testing. Along with a solid foundation we will implement what we learned in real world N-Tier web application with .NET 6 and EF Core.
-
-Many times, skills comes with that will that skill help me achieve professionally. Unit testing is a very valuable skill with the current development cycle. It is a must have skill in most organizations for senior developers.
-
-
-
-By end of this course you will have a solid foundation with unit testing. Along with a solid foundation we will implement what we learned in real world N-Tier web application with .NET 6 and EF Core.
-
-Many times, skills comes with that will that skill help me achieve professionally. Unit testing is a very valuable skill with the current development cycle. It is a must have skill in most organizations for senior developers.
-
-
-
-By end of this course you will have a solid foundation with unit testing. Along with a solid foundation we will implement what we learned in real world N-Tier web application with .NET 6 and EF Core.
